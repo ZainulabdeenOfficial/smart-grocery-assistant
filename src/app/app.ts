@@ -9,5 +9,6 @@ import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 })
 export class App {
   protected readonly title = signal('smart-grocery-assistant');
+  protected readonly currentYear = new Date().getFullYear();
 }
 
