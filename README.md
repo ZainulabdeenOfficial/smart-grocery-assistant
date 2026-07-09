@@ -1,3 +1,6 @@
+
+![Smart Grocery Assistant Banner](https://raw.githubusercontent.com/ZainulabdeenOfficial/smart-grocery-assistant/main/ScreenShots/Smart-Grocery-Assistant-AI-Powered-Shopping-Lists-07-09-2026_12_47_PM12.png)
+
 # Smart Grocery Assistant
 
 An intelligent grocery list management application built with Angular 20 and Google Genkit AI. The application provides AI-powered smart suggestions for complementary grocery items, helping users plan their shopping more efficiently through server-side rendering, zoneless change detection, and reactive state management.
