@@ -1,0 +1,7 @@
+{
+  "buildCommand": "ng build",
+  "outputDirectory": "dist/smart-grocery-assistant/browser",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
